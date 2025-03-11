@@ -1,10 +1,8 @@
-### Hi there, I'm Sanyam Bawa! 👋
+ <h1 align="center">Hey👋, I'm Sanyam Bawa!🌟</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast</h3>
 
-🚀 **Aspiring Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast**
 
----
-
-## 🔥 About Me
+### 🔥 About Me
 I'm a Computer Science undergraduate passionate about **full-stack development, cloud technologies, and AI-driven observability**. I excel in collaborative settings, combining clear communication with innovative problem-solving.
 
 ---
@@ -16,9 +14,9 @@ I'm a Computer Science undergraduate passionate about **full-stack development, 
 
 - 💬 Ask me about **Python, MERN Stack**
 
-- 📫 How to reach me **sanyambawa96@gmail.com**
+- 📫 How to reach me **sanyambawa96@gmail.com📧**
 
-- ⚡ Fun fact **I think I am funny, but my compiler disagrees.**
+- ⚡ Fun fact : **I believe error messages are just my code’s quirky hints to improve itself.🤭**
 
 
 <h3 align="left">Connect with me:</h3>
