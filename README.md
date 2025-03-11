@@ -20,8 +20,6 @@ I'm a Computer Science undergraduate passionate about **full-stack development, 
 
 - ⚡ Fun fact **I think I am funny, but my compiler disagrees.**
 
-![Snake animation](https://github.com/Sanyam-Bawa/Sanyam-Bawa/blob/output/dist/github-contribution-grid-snake.svg)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
